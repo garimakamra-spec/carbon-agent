@@ -1,4 +1,4 @@
-# 🌱 nPlan ESG & Sustainability Copilot
+# 🌱 ESG & Sustainability Copilot
 
 > **Autonomous Multi-Agent System for Predicting Scope 3 Embodied Carbon in Construction Schedules**
 
