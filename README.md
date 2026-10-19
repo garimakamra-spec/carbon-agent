@@ -13,7 +13,7 @@
 
 Large infrastructure and capital construction projects routinely face stringent carbon budget caps alongside traditional schedule and cost constraints. Embodied carbon (Scope 3) accounts for the vast majority of built environment emissions, yet carbon assessments are traditionally performed as disconnected, static post-mortems.
 
-The **nPlan ESG Copilot** bridges the gap between schedule forecasting and environmental impact. By orchestrating specialist AI agents, this platform ingests construction schedules (such as Primavera P6 work breakdown structures), maps structural materials against verified Environmental Product Declaration (EPD) databases, calculates time-phased carbon emissions, and proactively audits carbon spikes against client compliance ceilings.
+The **ESG Copilot** bridges the gap between schedule forecasting and environmental impact. By orchestrating specialist AI agents, this platform ingests construction schedules (such as Primavera P6 work breakdown structures), maps structural materials against verified Environmental Product Declaration (EPD) databases, calculates time-phased carbon emissions, and proactively audits carbon spikes against client compliance ceilings.
 
 ---
 
